@@ -1,5 +1,5 @@
-module github.com/policy-engine/policies/basic-auth
+module github.com/renuka-fernando/api-platform-gateway-extensions/basic-auth
 
 go 1.23.0
 
-require github.com/wso2/api-platform/sdk v0.0.0-20251218061802-e63558346492 // indirect
+require github.com/wso2/api-platform/sdk v0.0.0-20251218061802-e63558346492

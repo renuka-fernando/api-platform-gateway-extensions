@@ -1,4 +1,4 @@
-module github.com/renuka-fernando/api-platform-gateway-extensions/ai-guardtails/content-length-guardrail/v1
+module github.com/renuka-fernando/api-platform-gateway-extensions/content-length-guardrail/v1
 
 go 1.23.0
 
