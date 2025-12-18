@@ -1,4 +1,4 @@
-module github.com/renuka-fernando/api-platform-gateway-extensions/respond
+module github.com/renuka-fernando/api-platform-gateway-extensions/apim-policies/respond/v1.0.0
 
 go 1.23.0
 
